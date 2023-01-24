@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jina. 
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26"/>
 <!--
 **p-jina/p-jina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
