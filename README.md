@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Jina. 
 
 
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=Html5&logoColor=ffffff”/>
-          
-<img src="https://img.shields.io/badge/Css3-264de4?style=flat&logo=Css3&logoColor=ffffff"/>
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff”/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jQuery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>
