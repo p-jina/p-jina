@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
 </div>
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Jina</h2>
+<h2 align="center">Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Jina</h2>
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp-jina%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8hits&edge_flat=true)](https://hits.seeyoufarm.com)
